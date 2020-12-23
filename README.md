@@ -6,9 +6,9 @@ Lastly, we were also required to create interactive reports and dashboards using
 
 These are what we could find:
 
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
+![](images/5.PNG)
+![](images/6.PNG)
